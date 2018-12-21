@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "420686890092",
+    "firebase_url": "https://zalorashope-547ff.firebaseio.com",
+    "project_id": "zalorashope-547ff",
+    "storage_bucket": "zalorashope-547ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420686890092:android:311713276156f39f",
+        "android_client_info": {
+          "package_name": "com.example.ervin.zalorashope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420686890092-7t58rff8mqndrcp9hov5q4im64c27frt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ervin.zalorashope",
+            "certificate_hash": "62ca737d7035116d12cf0f812f87401ef2cab574"
+          }
+        },
+        {
+          "client_id": "420686890092-ln8g7lga2nh9ek6ausj1p5vpmh3nlvqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ervin.zalorashope",
+            "certificate_hash": "7cf457345dedb719ece57ff5a8f11787cf034efe"
+          }
+        },
+        {
+          "client_id": "420686890092-j06neef73geql9lnsl7dfntejj2tbbh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ervin.zalorashope",
+            "certificate_hash": "780029980c2a25be1871b5f7b6125dbe5175df07"
+          }
+        },
+        {
+          "client_id": "420686890092-gjktm3e6hihl5j309tab69t7kvrov2ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOH4qz1xPQkMmmxDb85GvDXKcdn_A-Sew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420686890092-gjktm3e6hihl5j309tab69t7kvrov2ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ervin.zalorashope">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/zalora_splash"
+        android:label="ZALORA"
+        android:roundIcon="@drawable/zalora_splash"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/AppTheme.LoginStyle">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".ProfileActivity" />
+        <activity android:name=".LogoutActivity" />
+        <activity android:name=".CalendarActivity" />
+        <activity android:name=".Model.AlerterActivity" />
+        <activity android:name=".Model.TechToSpeechActivity"></activity>
+    </application>
+
+</manifest>
